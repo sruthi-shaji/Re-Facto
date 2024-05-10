@@ -48,8 +48,8 @@ All of the features provided by the application, as well as the various scenario
 
 Thanks to the following contributors for their hard work:
 
-- [Hatim Patrawala](https://git.cs.dal.ca/patrawala)
-- [Sruthi Shaji](https://git.cs.dal.ca/sshaji)
-- [Kaushik Dhola](https://git.cs.dal.ca/kdhola)
-- [Kenil Patel](https://git.cs.dal.ca/kenil)
-- [Dhruvik Kakadiya](https://git.cs.dal.ca/dkakadiya)
+- [Hatim Patrawala]()
+- [Sruthi Shaji]()
+- [Kaushik Dhola]()
+- [Kenil Patel]()
+- [Dhruvik Kakadiya]()
